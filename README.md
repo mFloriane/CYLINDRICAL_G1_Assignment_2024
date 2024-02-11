@@ -11,4 +11,4 @@ Below are all the 3 manipulator's D-H Parametric Table together with their Kinem
 ![SCARA-PRR-VARIANT](https://github.com/yoboiqk/CYLINDRICAL_G1_Assignment_2024/assets/157770806/18637e0b-141c-4938-afa7-51211407b4c3)
 
 3. Cartesian Manipulator on Ceiling
-![image](https://github.com/yoboiqk/CYLINDRICAL_G1_Assignment_2024/assets/157883261/1cc9a198-deab-45d3-ba13-76f6cf3890b2)
+![CARTESIAN-MANIPULATOR-ON-CEILING](https://github.com/mFloriane/CYLINDRICAL_G1_Assignment_2024/assets/157770806/da90a63c-d87a-4d5d-bfd3-aa312244dcab)
