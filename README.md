@@ -13,4 +13,4 @@ Below are all the 3 manipulator's D-H Parametric Table together with their Kinem
 3. Cartesian Manipulator on Ceiling
 ![CARTESIAN-MANIPULATOR-ON-CEILING](https://github.com/mFloriane/CYLINDRICAL_G1_Assignment_2024/assets/157770806/da90a63c-d87a-4d5d-bfd3-aa312244dcab)
 
-![433042215_160288570513128_3666912184365199187_n](https://github.com/mFloriane/CYLINDRICAL_G1_Assignment_2024/assets/157770806/9cfd5d81-5832-428c-b011-0e500674b616)
+
